@@ -14,4 +14,4 @@ There was an issue with "Search engine optimization" in the navigation section, 
 
 The link to the deployed application is https://MagnificentRoast.github.io/Code-Refactor.
 
-![](assets/images/screenshot-readme)
+![screenshot](assets/images/screenshot-readme.png)

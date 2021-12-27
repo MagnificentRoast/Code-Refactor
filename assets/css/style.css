@@ -1,3 +1,4 @@
+/* UNIVERSAL SELECTOR */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -14,13 +15,16 @@
 /* END OF PSEUDO CLASS SELECTORS */
 
 body {
+    /* To change the color to #d9dcd6 */
     background-color: var(--third-color);
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* To change the color to #2a607c */
     background-color: var(--fourth-color);
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
@@ -30,6 +34,7 @@ body {
 }
 
 .header h1 .seo {
+    /* To change the color to #d9dcd6 */
     color: var(--third-color);
 }
 
@@ -51,6 +56,7 @@ body {
 }
 
 a {
+    /* To change the color to #ffffff */
     color: var(--primary-color);
     text-decoration: none;
 }
@@ -59,6 +65,7 @@ p {
     font-size: 16px;
 }
 
+/* HERO STYLING START */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,7 +74,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* HERO STYLING END */
 
+/* CONTENT IMAGE STYLE START */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,6 +92,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* END OF CONTENT IMAGE STYLE */
 
 /* START OF BENEFITS STYLES */
 .benefits {
@@ -98,16 +108,19 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
 .benefit-brand {
     margin-bottom: 32px;
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
 .benefit-cost {
     margin-bottom: 32px;
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
@@ -143,13 +156,17 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* END OF BENEFITS STYLE */
 
+/* CONTENT STYLINGS START */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    /* To change the color to #0072bb */
     background-color: var(--secondary-color);
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
@@ -158,7 +175,9 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    /* To change the color to #0072bb */
     background-color: var(--secondary-color);
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
@@ -167,7 +186,9 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    /* To change the color to #0072bb */
     background-color: var(--secondary-color);
+    /* To change the color to #ffffff */
     color: var(--primary-color);
 }
 
@@ -197,6 +218,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* END OF CONTENT STYLES */
 
 /* START OF FOOTER STYLES */
 .footer {

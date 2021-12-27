@@ -13,3 +13,5 @@ In style.css, you will see comments that will show you where in the HTML documen
 There was an issue with "Search engine optimization" in the navigation section, that has been fixed, I have also enabled clicking on the Horiseon logo at the top of the page so, in the event that you would like to add additional pages to this web page, you will be able to return to this landing page if you need to.
 
 The link to the deployed application is https://MagnificentRoast.github.io/Code-Refactor.
+
+![screenshot](./assets/images/Screenshot (12).png)
